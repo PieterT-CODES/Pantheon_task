@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<testsuite name="MyTest-20210629225208" tests="1" time="0.008" failures="0" errors="0">
+	<testcase classname="MyTest" name="test_generate_username" time="0.008"/>
+	<system-out><![CDATA[]]></system-out>
+	<system-err><![CDATA[]]></system-err>
+</testsuite>
